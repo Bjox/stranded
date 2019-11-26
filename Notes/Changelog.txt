@@ -1,0 +1,101 @@
+24/02-12
+v 1.0
+	- Bugfix: Using a single item caused the game to crash.
+	- Apple added
+	- Match effect added
+	- Upped stone-spawning rate
+	- Added axe
+	- Added sticks
+	- Wood now craftable
+	- Damage stat added
+	- New map
+	- When picking up items with full inventory wont remove item from ground.
+	- Improvements to map generator
+	- Bugfix: The player walked under bridges right after crafting it.
+	- Improved controls
+	- Improved game-over screen
+	- Improved item-pickup
+	- Bucket added
+	- Buckets and empty coconuts can be filled with water
+	- Upped energy drain by walking
+	- Reduced energy cost from hitting
+	- Bridge added
+	- Trap added
+	- Items in inventory adds weight
+	- Pick-up sound is only playing one time when picking up multiple items
+	- Item weight now have an impact on energy drain when walking.
+	- Menu music added
+	- Added difficulty
+	- Walking and hitting now grants strength
+	- Damage is calculated by strength.
+	- General bugfixing
+	- Hunger added.
+	- Energy drain now depends on hunger level
+	- Walking animation speeded up
+	- Improvements on the main menu
+	- Raw meat and cooked meat added
+	- Sleeping added
+	- Chicken added
+
+
+
+
+
+ALPHA
+----------------------------------------------------------------------------
+
+28/01-12
+v 0.0.3
+	- Open coconut added
+	- Another pinetree added
+	- Jungle tree added
+	- Campfire added
+	- Matches added
+	- Title added
+	- Removed lightning
+	- Drinking open coconut now grants 10 energy
+	- HItting now drains energy
+	- Changed window color to match inventory color
+	- Changed regular tree sprite
+	- You can now choose where crafted entities go
+	- You now die when energy reaches 0%
+	- Swing animation
+	- Status window, which includes:
+		- Energy bar
+		- Stamina bar
+		- Strength
+		- Skill
+		- Vitality
+	- Added sounds for:
+		- Hit
+		- Swing
+		- Pick up
+
+
+07/01-12
+v 0.0.2
+	- Crafting implemented
+	- Gapahuk added
+	- Beach added
+
+
+v 0.0.1
+	- Map generation created
+	- Day/night cycles implemented
+	- Basic lightning added
+	- Grass, sand, water added.
+	- Shores added
+	- Pinetree, palme and tree added
+	- Player added
+	- 4 grass decals added
+	- Inventory added
+	- Trunk, branch, coconut added
+
+
+20/12-11
+v 0.0.0
+	- Developement on "survival game" started
+
+
+
+AUTHORS: ENDRE LARSEN, BJØRNAR ALVESTAD

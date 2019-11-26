@@ -1,0 +1,8 @@
+BUG: Coconut filled with water respawns as coconut with milk when picked up.
+  FIX: Changed field "type" in class WaterCoconut from "OpenCoconut" to "WaterCoconut" (typo)
+
+CHANGE: Hunger level changed from 60% to 100% when starting new game.
+
+CHANGE: Removed position debug label.
+
+CHANGE: Bridges can now be built from sand and not only grass.
